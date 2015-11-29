@@ -21,6 +21,7 @@
 		6E7732441BE57EC0002932F5 /* CustomWidget in Resources */ = {isa = PBXBuildFile; fileRef = 6E7732431BE57EC0002932F5 /* CustomWidget */; };
 		6E7732461BE5B639002932F5 /* JsonRelated in Resources */ = {isa = PBXBuildFile; fileRef = 6E7732451BE5B639002932F5 /* JsonRelated */; };
 		6E77324E1BE5BC41002932F5 /* DataPersistence in Resources */ = {isa = PBXBuildFile; fileRef = 6E77324D1BE5BC41002932F5 /* DataPersistence */; };
+		6E94F8C91C0AD0DE00AC216E /* BaseView in Resources */ = {isa = PBXBuildFile; fileRef = 6E94F8C81C0AD0DE00AC216E /* BaseView */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		6E7732431BE57EC0002932F5 /* CustomWidget */ = {isa = PBXFileReference; lastKnownFileType = folder; path = CustomWidget; sourceTree = "<group>"; };
 		6E7732451BE5B639002932F5 /* JsonRelated */ = {isa = PBXFileReference; lastKnownFileType = folder; path = JsonRelated; sourceTree = "<group>"; };
 		6E77324D1BE5BC41002932F5 /* DataPersistence */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DataPersistence; sourceTree = "<group>"; };
+		6E94F8C81C0AD0DE00AC216E /* BaseView */ = {isa = PBXFileReference; lastKnownFileType = folder; name = BaseView; path = BaseView/BaseView; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				6E7732451BE5B639002932F5 /* JsonRelated */,
 				6E7732431BE57EC0002932F5 /* CustomWidget */,
 				6E7732421BE57ABA002932F5 /* AppMarco.h */,
+				6E94F8C81C0AD0DE00AC216E /* BaseView */,
 				6E77323F1BE56B2F002932F5 /* AppUtils.h */,
 				6E7732401BE56B2F002932F5 /* AppUtils.m */,
 				6E77323D1BE55F39002932F5 /* BaseViewController */,
@@ -271,6 +274,7 @@
 				6E77323C1BE55E12002932F5 /* general in Resources */,
 				6E7732461BE5B639002932F5 /* JsonRelated in Resources */,
 				6E7732141BE55A93002932F5 /* Assets.xcassets in Resources */,
+				6E94F8C91C0AD0DE00AC216E /* BaseView in Resources */,
 				6E7732121BE55A93002932F5 /* Main.storyboard in Resources */,
 				6E77323E1BE55F39002932F5 /* BaseViewController in Resources */,
 				6E77324E1BE5BC41002932F5 /* DataPersistence in Resources */,
