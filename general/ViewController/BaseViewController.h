@@ -14,4 +14,7 @@
 
 @interface BaseViewController : UIViewController
 
+@property(nonatomic ,retain )NSString *netState;
+- (NSString *)networkStateChange;
+
 @end
